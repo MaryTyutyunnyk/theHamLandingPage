@@ -1,0 +1,17 @@
+You can see the finished project here -
+
+The task: Make the HTML page from the PSD layout. Add dynamic elements.
+
+Technical requirements:
+
+- It is necessary to make a layout only for widescreen monitors, with a screen width of more than 1200 pixels or more (that is, the content width is fixed in pixels). The maximum width of the content container is 1160 pixels (except for the second block with squares).
+- The header image should occupy the entire width of the screen.
+- Adaptive layout for different screen resolutions is NOT required.
+- Cards in the Breaking news section should be clickable links.
+
+Dynamic elements:
+- Tabs in the "Our services" section should switch when clicked. Text and images for other tabs insert any
+- The Load more button in the "Our amazing work" section simulates uploading new images from the server. When it is pressed in the section below, 12 more pictures should be added (you can take any pictures). After that, the button disappears.
+- The buttons on the "Our amazing work: tab is "product filters". Before each of the pictures, you need to assign one of four categories, at your discretion (on the layout is Graphic design, Web design, Landing pages, Wordpress). When you click on the category button, you need to show only those pictures that belong to this category. All shows pictures from all categories. Categories can be renamed, pictures for categories take any.
+- The carousel on the tab "What people say about theHam" should be working, by clicking on both the photo icon below and the right-left arrows. In the carousel should change both the picture and the text. The carousel must be with animation.
+- To connect dynamic elements, you can use any libraries - both jQuery / its plugins and pure Javascript code.
